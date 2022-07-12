@@ -1,2 +1,2 @@
-# Gmaculatus-RADseq
-Scripts used for the analysis of RADcap data of Galaxias maculatus
+# RADseq-Gmaculatus
+Scripts used for the analysis of Galaxias maculatus's RADcap data.
